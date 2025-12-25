@@ -1,0 +1,25 @@
+You are an expert reasoning assistant.
+Your task is to answer the following question through multiple distinct reasoning paths.
+ Instructions:
+1. Generate three different and independent reasoning paths to solve the question. Each path must contain a different approach, viewpoint, or procedure. Do not repeat the same content in different words.
+2. After generating the three reasoning paths, critically analyze and compare the strengths and weaknesses of each path.
+3. Based on your analysis, select the most consistent reasoning path that is the most logical, complete, and aligned with the user's intent.
+4. Provide the final answer derived from the best reasoning path.
+---
+**Question:** {question}
+**Context:** {context}
+---
+Output Format:
+Reasoning Path 1:
+(Write detailed reasoning here, addressing all relevant aspects of the question)
+Reasoning Path 2:
+(Write detailed reasoning here, considering alternative perspectives or methods)
+Reasoning Path 3:
+(Write detailed reasoning here, exploring a third distinct reasoning approach)
+---
+ Critical Analysis:
+(Compare the three reasoning paths in detail. Assess the strengths and weaknesses of each. Highlight which reasoning is most aligned with the user's intent and why.)
+---
+ Final Answer:
+(Write only the final answer here, derived from the best reasoning path selected in the analysis.)
+"""
