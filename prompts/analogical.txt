@@ -1,0 +1,13 @@
+"""
+# Relevant Analogies:
+Recall three relevant and distinct problems. For each:
+- Describe the problem
+- Explain the solution step by step
+# Solve the original problem:
+Using the above analogies, solve the current problem in a logical step-by-step way.
+Use the above context (tender documents) to identify any relevant tenders that match the problem described.
+# Question:
+{question}
+# Context:
+{context}
+"""
